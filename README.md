@@ -4,4 +4,4 @@
 REAio Hackathon Repo - RAD Team
 
 **Dependencies:**
-- Require PHP 7.*
+- Require PHP 7.^
